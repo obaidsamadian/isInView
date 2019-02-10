@@ -1,0 +1,38 @@
+{
+  "name": "isinview",
+  "version": "1.0.0",
+  "description": "Check if an element is inside of the viewport",
+  "main": "./dist/mainnpm install -g gulp-cli\n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obaidsamadian/isInView.git"
+  },
+  "keywords": [
+    "Jquery",
+    "plugin",
+    "viewport",
+    "inside",
+    "element"
+  ],
+  "author": "Obaid Samadian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obaidsamadian/isInView/issues"
+  },
+  "homepage": "https://github.com/obaidsamadian/isInView#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.29",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.1.7",
+    "gulp-typescript": "^5.0.0",
+    "gulp-uglify": "^3.0.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "jquey": "0.0.1-security"
+  }
+}
